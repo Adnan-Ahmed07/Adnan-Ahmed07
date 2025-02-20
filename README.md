@@ -26,7 +26,7 @@
 - :computer: I'm a Front-End And React Native Developer
 - :hourglass_flowing_sand: I always like to learn about new technologies
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: create something that billions will use
+- :man_technologist: Create something that billions will use
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
