@@ -35,7 +35,7 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/adnan-ahmed-668260315/) [![Facebook Badge](https://img.shields.io/badge/-@Adnan_Ahmed-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com)](https://www.facebook.com/adnanahmed52443) [![Instagram Badge](https://img.shields.io/badge/-@Adnan_Ahd-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/adnan_ahd//)](https://www.instagram.com/adnan_ahd/)
-[![Linkedin Badge](https://img.shields.io/badge/-Adnan.teach-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://../)
+[![Linkedin Badge](https://img.shields.io/badge/-Adnan.teach-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://my-new-portfolio-4jfx.onrender.com/)
 
 <!--
 **Adnan-Ahmed07/Adnan-Ahmed07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
